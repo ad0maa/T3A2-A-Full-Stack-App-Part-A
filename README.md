@@ -155,6 +155,7 @@ Project-management tools – Trello, Discord
 <br></br>
 <img align="center" width="100%" src="docs/day 2 front end back end.png">
 <br></br>
+
 - As you can see in these screenshot’s we added additional information within the cards as to avoid cluttering the board, on these checklist’s we went through and ticked off any task’s that were completed.
  <br></br>
 
