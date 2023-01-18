@@ -18,26 +18,26 @@ Medi-life is a local doctor’s clinic that has come to our team of developers w
 
 ## <u>Features</u>  
 
-Patients can register a new account to make a booking 
+- Patients can register a new account to make a booking 
 
-Patients and the admin team can log in to the booking site with an existing account 
+- Patients and the admin team can log in to the booking site with an existing account 
 
-Patients can select their preferred Doctor and book an appointment time 
+- Patients can select their preferred Doctor and book an appointment time 
 
-Appointment times are checked to see if there is an existing booking for that time  
+- Appointment times are checked to see if there is an existing booking for that time  
 
-Patients can view their upcoming appointments 
+- Patients can view their upcoming appointments 
 
-Patients can edit and delete their own appointments 
+- Patients can edit and delete their own appointments 
 
  
 ## <u>Possible Features</u> 
 
-Doctors are notified when a patient books an appointment with them 
+- Doctors are notified when a patient books an appointment with them 
 
-Doctors can accept or deny booking requests 
+- Doctors can accept or deny booking requests 
 
-User account can apply to become a doctor account pending admin’s approval 
+- User account can apply to become a doctor account pending admin’s approval 
 
 ## <u>Target Audience</u> 
 
