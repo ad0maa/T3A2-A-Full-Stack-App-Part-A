@@ -120,20 +120,31 @@ Project-management tools – Trello, Discord
 
 <h2>Week One Screenshots</h2>
 
+- On the first day we decide to implement the Agile process; the first step involved us organizing a meeting with fellow developers and discussing and planning the projects creation. The second step involved visioning and targets on the tasks that needed completing as well as the due dates and features required for the project, after the discussion we decided upon using Trello for our project management software.  
+
+  Each morning we hosted standups and planned out our tasks for the days as well as the sprints ahead, these were added as cards in their respective section. We added color coding for specific team members. This helped to signify visually what task were allotted to what member. 
+  <br></br>
 <img align="center" width="100%" src="docs/Day 1 screen.png">
 <br></br>
 <img align="center" width="100%" src="docs/Day 2 agile sprint.png">
 <br></br>
 <img align="center" width="100%" src="docs/day 2 front end back end.png">
 <br></br>
+- As you can see in these screenshot’s we added additional information within the cards as to avoid cluttering the board, on these checklist’s we went through and ticked off any task’s that were completed.
+ <br></br>
+
 <img align="center" width="100%" src="docs/Part A.png">
 <br></br>
 <img align="center" width="100%" src="docs/Wireframe.png">
 <br></br>
 <h2>Trello updated</h2>
+
+- Throughout the process of using our Trello board we found ways to refine and remove redundant information, during this process we ended up with a much more organized Trello board as you can see in these last two final images. 
+<br></br>
 <img align="center" width="100%" src="docs/Day 3 restructure.png">
 <br></br>
 <img align="center" width="100%" src="docs/Day 3 restrcture.png">
 <br></br>
+- With the help of our organization tool we were able to meet our sprints for the first part of our assignment.
 
 
