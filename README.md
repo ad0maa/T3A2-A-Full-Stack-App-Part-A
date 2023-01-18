@@ -1,7 +1,3 @@
-# did this test work? pull req
-# WHAT IS HAPPENING HERE? 
-
-
 # T3A2-A - Full Stack App - Part A
 
 <img align="right" width="100" height="100" src="./docs/calogo.png">
@@ -125,5 +121,19 @@ Project-management tools – Trello, Discord
 <h2>Week one screenshots</h2>
 
 <img align="center" width="100%" src="docs/Day 1 screen.png">
+<br></br>
+<img align="center" width="100%" src="docs/Day 2 agile sprint.png">
+<br></br>
+<img align="center" width="100%" src="docs/day 2 front end back end.png">
+<br></br>
+<img align="center" width="100%" src="docs/Part A.png">
+<br></br>
+<img align="center" width="100%" src="docs/Wireframe.png">
+<br></br>
+<h2>Trello updated</h2>
+<img align="center" width="100%" src="docs/Day 3 restructure.png">
+<br></br>
+<img align="center" width="100%" src="docs/Day 3 restrcture.png">
+<br></br>
 
 
