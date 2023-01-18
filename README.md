@@ -59,7 +59,7 @@ Deployment – Heroku, Netlify
 
 UI/Design – Figma, Lucid Charts 
 
-Project-Management Tools – Trello, Discord 
+Project-Management – Trello, Discord 
 ## <u>Dataflow Diagram</u>
 
 <img align="center" width="100%" src="./docs/dataflow-diagram.png">
