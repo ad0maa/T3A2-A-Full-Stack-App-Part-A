@@ -14,7 +14,7 @@
 
 ## <u>Purpose</u> 
 
-Medi-life is a local doctor’s clinic that has come to our team of developers with a project to create an online booking platform for their patients. In the past, patients must call the clinic and book with the medical receptionist who entered the appointments into their scheduling software. The problem they face is the additional workload this booking system placed on their reception team, and they want to give the patients the ability to book their own appointments without needing to call the surgery during operating hours. 
+Medi-life is a local doctor’s clinic that has approached our team of developers with a project to create an online booking platform for their patients. In the past, patients must call the clinic and book with the medical receptionist who entered the appointments into their scheduling software. The problem they face is the additional workload this booking system placed on their reception team, and they want to give the patients the ability to book their own appointments without needing to call the surgery during operating hours. 
 
 ## <u>Features</u>  
 
