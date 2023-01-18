@@ -130,7 +130,7 @@ Project-management tools – Trello, Discord
 <br></br>
 <img align="center" width="100%" src="docs/Wireframe.png">
 <br></br>
-<h2>Trello updated</h2>
+<h2>Updated Trello Before Part A Submission</h2>
 <img align="center" width="100%" src="docs/Day 3 restructure.png">
 <br></br>
 <img align="center" width="100%" src="docs/Day 3 restrcture.png">
