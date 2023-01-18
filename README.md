@@ -53,16 +53,13 @@ Database – MongoDB, Mongoose
 
 Source Control – Git, GitHub 
 
-Project Management – Trello 
-
-UI/Design – Figma, Lucid Charts 
-
 Testing - Postman, Supertest, Jest-dom, Vitest 
 
 Deployment – Heroku, Netlify 
 
-Project-management tools – Trello, Discord 
+UI/Design – Figma, Lucid Charts 
 
+Project-Management Tools – Trello, Discord 
 ## <u>Dataflow Diagram</u>
 
 <img align="center" width="100%" src="./docs/dataflow-diagram.png">
