@@ -81,35 +81,35 @@ Project-management tools – Trello, Discord
 - As a patient, I want to be able to log in to the booking site with an existing account, so that I can make a booking.
 - As a patient, I want to be able to select my preferred Doctor and see their availability, so that I can book an appointment time.
 - As a patient, I want to be able to view my upcoming appointments, so that I can keep track of them.
-- As a patient, I want to be able to edit and delete my own appointments, so that I can change them if I need to.
+- As a patient, I want to be able to update and delete my own appointments, so that I can change them if I need to.
 
 **Admin**
 
 - As an admin, I want to be able to see all the appointments that have been made, so I can manage the clinic’s schedule.
-- As an admin, I want to be able to delete any appointments that have been made, in case a doctor or patient's schedule changes.
-- As an admin,
-
+- As an admin, I want to be able to edit and delete any appointments that have been made, in case a doctor or patient's schedule changes.
+- As an admin, I want to be able to delete user accounts, so that our database is clean of incorrect data or accounts that are no longer in use.
+- As an admin, I want to be able to see all the users that have registered, so that I can manage the patient's accounts.
 
 
 ## <u>Wireframes</u>
 
-## <u>Register</u>
+### <u>Register</u>
 
 <p align="center">
 <img align="center" width="100%" src="./docs/wire_reg.png">
 
-## <u>Login</u>
+### <u>Login</u>
 
 <p align="center">
 <img align="center" width="100%" src="./docs/wire_login.png">
 
-## <u>Bookings</u>
+### <u>Bookings</u>
 
 <p align="center">
 <img align="center" width="100%" src="./docs/wire_bookings.png">
 
 
-## <u>Appointments</u>
+### <u>Appointments</u>
 
 <p align="center">
 <img align="center" width="100%" src="./docs/wire_app.png">
