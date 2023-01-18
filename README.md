@@ -62,18 +62,25 @@ Testing - Postman, Supertest, Jest-dom, Vitest
 Deployment – Heroku, Netlify 
 
 Project-management tools – Trello, Discord 
+<hr>
+
 
 ## <u>Dataflow Diagram</u>
 
 <img align="center" width="100%" src="./docs/dataflow-diagram.png">
+<hr>
+
 
 ## <u>Application Architecture Diagram</u>
 
 <img align="center" width="100%" src="./docs/architecture.png">
 
 
-## <u>User Stories</u>
+<br><br>
+<hr>
 
+## <u>User Stories</u>
+<p>
 
 **Patients**
 
@@ -89,9 +96,25 @@ Project-management tools – Trello, Discord
 - As an admin, I want to be able to edit and delete any appointments that have been made, in case a doctor or patient's schedule changes.
 - As an admin, I want to be able to delete user accounts, so that our database is clean of incorrect data or accounts that are no longer in use.
 - As an admin, I want to be able to see all the users that have registered, so that I can manage the patient's accounts.
+</p>
+<br></br>
 
+## <u>Initial drafts</u>
+
+<p>In the user stories featured above we felt this information easily conveyed our clients needs. Originally we had utilized a different format based off of our research, but came to the conclusion these were overly verbose, below we have attached some examples of our early drafts.
+
+<br>
+<p align="center">
+<img align="center" width="100%" src="docs/Draft doctor user stories.png">
+</br>
+<br>
+<p align="center">
+<img align="center" width="100%" src="docs/Draft user stories.png">
+
+<hr>
 
 ## <u>Wireframes</u>
+
 
 ### <u>Register</u>
 
@@ -114,6 +137,8 @@ Project-management tools – Trello, Discord
 <p align="center">
 <img align="center" width="100%" src="./docs/wire_app.png">
 
+
+<hr>
 
 ## <u>Trello Board</u>
 [Trello Link](https://trello.com/invite/b/tHb5bHeE/ATTI7749fd36a62d9a54caf4bc74f064c39a961E7D98/medical-application)
