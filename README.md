@@ -171,6 +171,7 @@ Project-management tools – Trello, Discord
 <br></br>
 <img align="center" width="100%" src="docs/Day 3 restrcture.png">
 <br></br>
+
 - With the help of our organization tool we were able to meet our sprints for the first part of our assignment.
 
 
