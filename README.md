@@ -55,7 +55,9 @@ Source Control – Git, GitHub
 
 Testing - Postman, Supertest, Jest-dom, Vitest 
 
-Deployment – Heroku, Netlify 
+Deployment – Heroku, Netlify
+
+UI/Design – Figma, Lucid Charts 
 
 Project-Management – Trello, Discord 
 ## <u>Dataflow Diagram</u>
@@ -138,10 +140,10 @@ Project-Management – Trello, Discord
 
 <h2>Week One Screenshots</h2>
 
-- On the first day we decide to implement the Agile process; the first step involved us organizing a meeting with fellow developers and discussing and planning the projects creation. The second step involved visioning and targets on the tasks that needed completing as well as the due dates and features required for the project, after the discussion we decided upon using Trello for our project management software.  
+- On day one of the project we decided to implement the Agile workflow process; the first step involved us organizing a meeting with our team to discuss and plan the project's creation. The second step involved visioning and targets on the tasks that needed completing as well as the due dates and features required for the project. After the discussion we decided upon using Trello for our project management software.  
 
-  Each morning we hosted standups and planned out our tasks for the days as well as the sprints ahead, these were added as cards in their respective section. We added color coding for specific team members. This helped to signify visually what task were allotted to what member. 
-  <br></br>
+- Each morning we hosted standups and planned out our tasks for the days as well as the sprints ahead, these were added as cards in their respective section. We added color coding for specific team members. This helped to signify visually what task were allotted to what member. 
+<br></br>
 <img align="center" width="100%" src="docs/Day 1 screen.png">
 <br></br>
 <img align="center" width="100%" src="docs/Day 2 agile sprint.png">
@@ -163,5 +165,3 @@ Project-Management – Trello, Discord
 <br></br>
 
 - With the help of our organization tool we were able to meet our sprints for the first part of our assignment.
-
-
