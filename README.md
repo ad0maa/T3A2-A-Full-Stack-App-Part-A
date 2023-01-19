@@ -53,18 +53,11 @@ Database – MongoDB, Mongoose
 
 Source Control – Git, GitHub 
 
-Project Management – Trello 
-
-UI/Design – Figma, Lucid Charts 
-
 Testing - Postman, Supertest, Jest-dom, Vitest 
 
 Deployment – Heroku, Netlify 
 
-Project-management tools – Trello, Discord 
-<hr>
-
-
+Project-Management – Trello, Discord 
 ## <u>Dataflow Diagram</u>
 
 <img align="center" width="100%" src="./docs/dataflow-diagram.png">
@@ -163,10 +156,7 @@ Project-management tools – Trello, Discord
 <br></br>
 <img align="center" width="100%" src="docs/Wireframe.png">
 <br></br>
-<h2>Trello updated</h2>
 
-- Throughout the process of using our Trello board we found ways to refine and remove redundant information, during this process we ended up with a much more organized Trello board as you can see in these last two final images. 
-<br></br>
 <img align="center" width="100%" src="docs/Day 3 restructure.png">
 <br></br>
 <img align="center" width="100%" src="docs/Day 3 restrcture.png">
