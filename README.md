@@ -57,20 +57,23 @@ Testing - Postman, Supertest, Jest-dom, Vitest
 
 Deployment – Heroku, Netlify 
 
-UI/Design – Figma, Lucid Charts 
-
 Project-Management – Trello, Discord 
 ## <u>Dataflow Diagram</u>
 
 <img align="center" width="100%" src="./docs/dataflow-diagram.png">
+<hr>
+
 
 ## <u>Application Architecture Diagram</u>
 
 <img align="center" width="100%" src="./docs/architecture.png">
 
 
-## <u>User Stories</u>
+<br><br>
+<hr>
 
+## <u>User Stories</u>
+<p>
 
 **Patients**
 
@@ -86,9 +89,25 @@ Project-Management – Trello, Discord
 - As an admin, I want to be able to edit and delete any appointments that have been made, in case a doctor or patient's schedule changes.
 - As an admin, I want to be able to delete user accounts, so that our database is clean of incorrect data or accounts that are no longer in use.
 - As an admin, I want to be able to see all the users that have registered, so that I can manage the patient's accounts.
+</p>
+<br></br>
 
+## <u>Initial drafts</u>
+
+<p>In the user stories featured above we felt this information easily conveyed our clients needs. Originally we had utilized a different format based off of our research, but came to the conclusion these were overly verbose, below we have attached some examples of our early drafts.
+
+<br>
+<p align="center">
+<img align="center" width="100%" src="docs/Draft doctor user stories.png">
+</br>
+<br>
+<p align="center">
+<img align="center" width="100%" src="docs/Draft user stories.png">
+
+<hr>
 
 ## <u>Wireframes</u>
+
 
 ### <u>Register</u>
 
@@ -112,25 +131,37 @@ Project-Management – Trello, Discord
 <img align="center" width="100%" src="./docs/wire_app.png">
 
 
+<hr>
+
 ## <u>Trello Board</u>
 [Trello Link](https://trello.com/invite/b/tHb5bHeE/ATTI7749fd36a62d9a54caf4bc74f064c39a961E7D98/medical-application)
 
 <h2>Week One Screenshots</h2>
 
+- On the first day we decide to implement the Agile process; the first step involved us organizing a meeting with fellow developers and discussing and planning the projects creation. The second step involved visioning and targets on the tasks that needed completing as well as the due dates and features required for the project, after the discussion we decided upon using Trello for our project management software.  
+
+  Each morning we hosted standups and planned out our tasks for the days as well as the sprints ahead, these were added as cards in their respective section. We added color coding for specific team members. This helped to signify visually what task were allotted to what member. 
+  <br></br>
 <img align="center" width="100%" src="docs/Day 1 screen.png">
 <br></br>
 <img align="center" width="100%" src="docs/Day 2 agile sprint.png">
 <br></br>
 <img align="center" width="100%" src="docs/day 2 front end back end.png">
 <br></br>
+
+- As you can see in these screenshot’s we added additional information within the cards as to avoid cluttering the board, on these checklist’s we went through and ticked off any task’s that were completed.
+ <br></br>
+
 <img align="center" width="100%" src="docs/Part A.png">
 <br></br>
 <img align="center" width="100%" src="docs/Wireframe.png">
 <br></br>
-<h2>Updated Trello Before Part A Submission</h2>
+
 <img align="center" width="100%" src="docs/Day 3 restructure.png">
 <br></br>
 <img align="center" width="100%" src="docs/Day 3 restrcture.png">
 <br></br>
+
+- With the help of our organization tool we were able to meet our sprints for the first part of our assignment.
 
 
