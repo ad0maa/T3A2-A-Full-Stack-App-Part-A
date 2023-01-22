@@ -111,24 +111,14 @@ Project-Management – Trello, Discord
 
 ## <u>Wireframes</u>
 
-
-### <u>Register</u>
-
 <p align="center">
 <img align="center" width="100%" src="./docs/wire_reg.png">
-
-### <u>Login</u>
 
 <p align="center">
 <img align="center" width="100%" src="./docs/wire_login.png">
 
-### <u>Bookings</u>
-
 <p align="center">
 <img align="center" width="100%" src="./docs/wire_bookings.png">
-
-
-### <u>Appointments</u>
 
 <p align="center">
 <img align="center" width="100%" src="./docs/wire_app.png">
